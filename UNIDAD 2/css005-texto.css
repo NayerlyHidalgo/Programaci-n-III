@@ -1,0 +1,34 @@
+.texto1 {
+    color: #289fbd;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    line-height: 1.6;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    letter-spacing: 1ch;
+    word-spacing: nowrap;
+}
+
+.texto1 {
+    color: red;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    line-height: 1;
+    text-align: right;
+    text-decoration: solid;
+    text-transform: capitalize;
+    letter-spacing: 1ch;
+    word-spacing: nowrap;
+}
+
+.texto3 {
+    color: blueviolet;
+}
+
+.texto2 { 
+    color: red;
+    font-size: 18px;
+}
